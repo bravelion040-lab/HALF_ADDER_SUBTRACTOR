@@ -68,6 +68,7 @@ Figure -02 HALF Subtractor
 
 
 
+<img width="1380" height="136" alt="image" src="https://github.com/user-attachments/assets/35d8324c-25af-4e52-ac33-0a6d77754261" />
 
 
 
@@ -76,7 +77,12 @@ Figure -02 HALF Subtractor
 
 
 
-Developed by: RegisterNumber:*/S Tozer Theophilus
+
+
+
+
+
+Developed by: RegisterNumber:*/25016814
 
 **RTL Schematic**
 
@@ -85,7 +91,30 @@ Developed by: RegisterNumber:*/S Tozer Theophilus
 
 
 
+
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9941247f-7bc4-432e-bf36-06a1d58520b4" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-11-23 043554" src="https://github.com/user-attachments/assets/55181801-37d1-46b7-a720-bf2400132333" />
+
+
+
+
+
 
 
 
@@ -110,6 +139,32 @@ Developed by: RegisterNumber:*/S Tozer Theophilus
 
 
 
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91c946c2-4e43-4580-bbaa-6a859df8d8af" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Result:**
 
 Thus to design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog Programming verified.
+
