@@ -68,7 +68,6 @@ Figure -02 HALF Subtractor
 
 
 
-<img width="792" height="163" alt="image" src="https://github.com/user-attachments/assets/c194d139-6881-4383-af38-615c934e187d" />
 
 
 
