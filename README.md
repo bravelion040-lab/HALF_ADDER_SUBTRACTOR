@@ -82,7 +82,7 @@ Figure -02 HALF Subtractor
 
 
 
-Developed by: RegisterNumber:*/25016814
+Developed by:S Tozer Theophilus Register Number:*/25016814
 
 **RTL Schematic**
 
